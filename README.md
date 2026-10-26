@@ -1,4 +1,4 @@
-# 🚀 QuizLogic
+# 📱​ Os melhores celulares
 
 > Site informativo com estrutura organizada de conteúdo, baseado na minha opinião.
 
